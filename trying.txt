@@ -1,0 +1,82 @@
+'cod': '200', 'message': 0, 'cnt': 40, 'list': 
+[{'dt': 1588453200, 'main': {'temp': 25.04, 'feels_like': 24.69, 'temp_min': 23.88, 'temp_max': 25.04, 'pressure': 1009, 'sea_level': 1008, 'grnd_level': 946, 'humidity': 58, 'temp_kf': 1.16}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 4}, 'wind': {'speed': 3.44, 'deg': 269}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-02 21:00:00'},
+
+ {'dt': 1588464000, 'main': {'temp': 23.43, 'feels_like': 23.89, 'temp_min': 22.68, 'temp_max': 23.43, 'pressure': 1008, 'sea_level': 1008, 'grnd_level': 945, 'humidity': 64, 'temp_kf': 0.75}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 2}, 'wind': {'speed': 2.31, 'deg': 254}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-03 00:00:00'},
+ 
+ {'dt': 1588474800, 'main': {'temp': 29.21, 'feels_like': 28.18, 'temp_min': 29.21, 'temp_max': 29.42, 'pressure': 1011, 'sea_level': 1011, 'grnd_level': 949, 'humidity': 36, 'temp_kf': -0.21}, 'weather': [{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}], 'clouds': {'all': 12}, 'wind': {'speed': 2.62, 'deg': 313}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-03 03:00:00'},
+ 
+ {'dt': 1588485600, 'main': {'temp': 38.04, 'feels_like': 33.97, 'temp_min': 38.04, 'temp_max': 38.14, 'pressure': 1009, 'sea_level': 1009, 'grnd_level': 950, 'humidity': 14, 'temp_kf': -0.1}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}], 'clouds': {'all': 6}, 'wind': {'speed': 4.47, 'deg': 332}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-03 06:00:00'}, 
+ 
+ {'dt': 1588496400, 'main': {'temp': 40.56, 'feels_like': 35.74, 'temp_min': 40.56, 'temp_max': 40.56, 'pressure': 1006, 'sea_level': 1006, 'grnd_level': 947, 'humidity': 11, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}], 'clouds': {'all': 0}, 'wind': {'speed': 5.09, 'deg': 311}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-03 09:00:00'}, 
+ 
+ {'dt': 1588507200, 'main': {'temp': 37.73, 'feels_like': 31.13, 'temp_min': 37.73, 'temp_max': 37.73, 'pressure': 1004, 'sea_level': 1004, 'grnd_level': 945, 'humidity': 17, 'temp_kf': 0}, 'weather': [{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}], 'clouds': {'all': 14}, 'wind': {'speed': 8.92, 'deg': 317}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-03 12:00:00'}, 
+ 
+ {'dt': 1588518000, 'main': {'temp': 30.12, 'feels_like': 27.71, 'temp_min': 30.12, 'temp_max': 30.12, 'pressure': 1007, 'sea_level': 1007, 'grnd_level': 946, 'humidity': 32, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 4.15, 'deg': 280}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-03 15:00:00'}, 
+ 
+ {'dt': 1588528800, 'main': {'temp': 27.12, 'feels_like': 25.15, 'temp_min': 27.12, 'temp_max': 27.12, 'pressure': 1008, 'sea_level': 1008, 'grnd_level': 947, 'humidity': 36, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 3.17, 'deg': 274}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-03 18:00:00'}, 
+ 
+ {'dt': 1588539600, 'main': {'temp': 24.52, 'feels_like': 23.82, 'temp_min': 24.52, 'temp_max': 24.52, 'pressure': 1008, 'sea_level': 1008, 'grnd_level': 945, 'humidity': 48, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 2.23, 'deg': 279}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-03 21:00:00'}, 
+ 
+ {'dt': 1588550400, 'main': {'temp': 23.81, 'feels_like': 22.65, 'temp_min': 23.81, 'temp_max': 23.81, 'pressure': 1008, 'sea_level': 1008, 'grnd_level': 946, 'humidity': 49, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 2.74, 'deg': 290}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-04 00:00:00'}, 
+ 
+ {'dt': 1588561200, 'main': {'temp': 30.44, 'feels_like': 28.73, 'temp_min': 30.44, 'temp_max': 30.44, 'pressure': 1011, 'sea_level': 1011, 'grnd_level': 950, 'humidity': 31, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}], 'clouds': {'all': 0}, 'wind': {'speed': 3.06, 'deg': 291}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-04 03:00:00'}, 
+
+{'dt': 1588572000, 'main': {'temp': 38.78, 'feels_like': 34.24, 'temp_min': 38.78, 'temp_max': 38.78, 'pressure': 1010, 'sea_level': 1010, 'grnd_level': 950, 'humidity': 14, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}], 'clouds': {'all': 0}, 'wind': {'speed': 5.32, 'deg': 318}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-04 06:00:00'}, 
+
+{'dt': 1588582800, 'main': {'temp': 39.56, 'feels_like': 34.07, 'temp_min': 39.56, 'temp_max': 39.56, 'pressure': 1007, 'sea_level': 1007, 'grnd_level': 948, 'humidity': 14, 'temp_kf': 0}, 'weather': [{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}], 'clouds': {'all': 29}, 'wind': {'speed': 6.86, 'deg': 307}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-04 09:00:00'},
+
+{'dt': 1588593600, 'main': {'temp': 36.66, 'feels_like': 31.66, 'temp_min': 36.66, 'temp_max': 36.66, 'pressure': 1006, 'sea_level': 1006, 'grnd_level': 946, 'humidity': 21, 'temp_kf': 0}, 'weather': [{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}], 'clouds': {'all': 48}, 'wind': {'speed': 7.5, 'deg': 303}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-04 12:00:00'}, 
+
+{'dt': 1588604400, 'main': {'temp': 28.96, 'feels_like': 27.42, 'temp_min': 28.96, 'temp_max': 28.96, 'pressure': 1009, 'sea_level': 1009, 'grnd_level': 947, 'humidity': 39, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 1}, 'wind': {'speed': 3.81, 'deg': 273}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-04 15:00:00'}, 
+
+{'dt': 1588615200, 'main': {'temp': 26.12, 'feels_like': 24.31, 'temp_min': 26.12, 'temp_max': 26.12, 'pressure': 1009, 'sea_level': 1009, 'grnd_level': 947, 'humidity': 41, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 3.4, 'deg': 277}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-04 18:00:00'}, 
+
+{'dt': 1588626000, 'main': {'temp': 24.25, 'feels_like': 23.04, 'temp_min': 24.25, 'temp_max': 24.25, 'pressure': 1008, 'sea_level': 1008, 'grnd_level': 946, 'humidity': 49, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 2.99, 'deg': 285}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-04 21:00:00'}, 
+
+{'dt': 1588636800, 'main': {'temp': 24.22, 'feels_like': 22.54, 'temp_min': 24.22, 'temp_max': 24.22, 'pressure': 1008, 'sea_level': 1008, 'grnd_level': 946, 'humidity': 40, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 2.37, 'deg': 275}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-05 00:00:00'}, 
+
+{'dt': 1588647600, 'main': {'temp': 30.99, 'feels_like': 28.56, 'temp_min': 30.99, 'temp_max': 30.99, 'pressure': 1010, 'sea_level': 1010, 'grnd_level': 949, 'humidity': 28, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky','icon': '01d'}], 'clouds': {'all': 1}, 'wind': {'speed': 3.66, 'deg': 306}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-05 03:00:00'}, 
+
+{'dt': 1588658400, 'main': {'temp': 38.38, 'feels_like': 34.23, 'temp_min': 38.38, 'temp_max': 38.38, 'pressure': 1009, 'sea_level': 1009, 'grnd_level': 950, 'humidity': 14, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}], 'clouds': {'all': 1}, 'wind': {'speed': 4.66, 'deg': 314}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-05 06:00:00'}, 
+
+{'dt': 1588669200, 'main': {'temp': 40.24, 'feels_like': 35.08, 'temp_min': 40.24, 'temp_max': 40.24, 'pressure': 1006, 'sea_level': 1006, 'grnd_level': 947, 'humidity': 13, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}], 'clouds': {'all': 6}, 'wind': {'speed': 6.22, 'deg': 308}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-05 09:00:00'}, 
+
+{'dt': 1588680000, 'main': {'temp': 37.84, 'feels_like': 32.55, 'temp_min': 37.84, 'temp_max': 37.84, 'pressure': 1005, 'sea_level': 1005, 'grnd_level': 946, 'humidity': 19, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}], 'clouds': {'all': 9}, 'wind': {'speed':7.7, 'deg': 301}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-05 12:00:00'}, 
+
+{'dt': 1588690800, 'main': {'temp': 29.51, 'feels_like': 27.9, 'temp_min': 29.51, 'temp_max': 29.51, 'pressure': 1008, 'sea_level': 1008, 'grnd_level': 947, 'humidity': 39, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 7}, 'wind': {'speed': 4.14, 'deg': 271}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-05 15:00:00'}, 
+
+{'dt': 1588701600, 'main': {'temp': 26.04, 'feels_like': 24.59, 'temp_min': 26.04, 'temp_max': 26.04, 'pressure': 1009, 'sea_level': 1009, 'grnd_level': 947, 'humidity': 47, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 3}, 'wind': {'speed': 3.8, 'deg': 270}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-05 18:00:00'}, 
+
+{'dt': 1588712400, 'main': {'temp': 23.83, 'feels_like': 23.44, 'temp_min': 23.83, 'temp_max': 23.83, 'pressure': 1007, 'sea_level': 1007, 'grnd_level': 945, 'humidity': 60, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 3.17, 'deg': 275}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-05 21:00:00'}, 
+
+{'dt': 1588723200, 'main': {'temp': 23.05, 'feels_like': 23, 'temp_min': 23.05, 'temp_max': 23.05, 'pressure': 1008, 'sea_level': 1008, 'grnd_level': 945, 'humidity': 63, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 2.7, 'deg': 270}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-06 00:00:00'}, 
+
+{'dt': 1588734000, 'main': {'temp': 29.01, 'feels_like': 28.59, 'temp_min': 29.01, 'temp_max': 29.01, 'pressure': 1009, 'sea_level': 1009, 'grnd_level': 948, 'humidity': 40, 'temp_kf': 0}, 'weather': [{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}], 'clouds': {'all': 14}, 'wind': {'speed': 2.42, 'deg': 296}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-06 03:00:00'}, 
+
+{'dt': 1588744800, 'main': {'temp': 36.17, 'feels_like': 34.03, 'temp_min': 36.17, 'temp_max': 36.17, 'pressure': 1009, 'sea_level': 1009, 'grnd_level': 949, 'humidity': 19, 'temp_kf': 0}, 'weather': [{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}], 'clouds': {'all': 27}, 'wind': {'speed': 2.69, 'deg': 333}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-06 06:00:00'}, 
+
+{'dt': 1588755600, 'main': {'temp': 39.88, 'feels_like': 35.27, 'temp_min': 39.88, 'temp_max': 39.88, 'pressure': 1006, 'sea_level': 1006, 'grnd_level': 947, 'humidity': 13, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}], 'clouds': {'all': 2}, 'wind': {'speed': 5.35, 'deg': 299}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-06 09:00:00'}, 
+
+{'dt': 1588766400, 'main': {'temp': 37.68, 'feels_like': 32.28, 'temp_min': 37.68, 'temp_max': 37.68, 'pressure': 1005, 'sea_level': 1005, 'grnd_level': 945, 'humidity': 16, 'temp_kf': 0}, 'weather': [{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}], 'clouds': {'all': 16}, 'wind': {'speed': 6.89, 'deg': 292}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-06 12:00:00'}, 
+
+{'dt': 1588777200, 'main': {'temp': 28.97, 'feels_like': 27.13, 'temp_min': 28.97, 'temp_max': 28.97, 'pressure': 1007, 'sea_level': 1007, 'grnd_level': 946, 'humidity': 37, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 4}, 'wind': {'speed': 3.87, 'deg': 262}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-06 15:00:00'}, 
+
+{'dt': 1588788000, 'main': {'temp': 26.18, 'feels_like': 24.37, 'temp_min': 26.18, 'temp_max': 26.18, 'pressure': 1009, 'sea_level': 1009, 'grnd_level': 947, 'humidity': 42, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 2}, 'wind': {'speed': 3.58, 'deg': 267}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-06 18:00:00'}, 
+
+{'dt': 1588798800, 'main': {'temp': 24.88, 'feels_like': 22.05, 'temp_min': 24.88, 'temp_max': 24.88, 'pressure': 1007, 'sea_level': 1007, 'grnd_level': 945, 'humidity': 38, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 3.94, 'deg': 283}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-06 21:00:00'}, 
+
+{'dt': 1588809600, 'main': {'temp': 23.32, 'feels_like': 21.88, 'temp_min': 23.32, 'temp_max': 23.32, 'pressure': 1007, 'sea_level': 1007, 'grnd_level': 945, 'humidity': 49, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 2.94, 'deg': 270}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-07 00:00:00'}, 
+
+{'dt': 1588820400, 'main': {'temp': 30.57, 'feels_like': 29.25, 'temp_min': 30.57, 'temp_max': 30.57, 'pressure': 1009, 'sea_level': 1009, 'grnd_level': 948, 'humidity': 24, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}], 'clouds': {'all': 0}, 'wind': {'speed': 1.12, 'deg': 236}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-07 03:00:00'}, 
+
+{'dt': 1588831200, 'main': {'temp': 37.84, 'feels_like': 34.6, 'temp_min': 37.84, 'temp_max': 37.84, 'pressure': 1009, 'sea_level': 1009, 'grnd_level': 949, 'humidity': 12, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01d'}], 'clouds': {'all': 9}, 'wind': {'speed': 2.62, 'deg': 340}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-07 06:00:00'}, 
+
+{'dt': 1588842000, 'main': {'temp': 40.47, 'feels_like': 35.94, 'temp_min': 40.47, 'temp_max': 40.47, 'pressure': 1005, 'sea_level': 1005, 'grnd_level': 947, 'humidity': 11, 'temp_kf': 0}, 'weather': [{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}], 'clouds': {'all': 16}, 'wind': {'speed': 4.66, 'deg': 294}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-07 09:00:00'}, 
+
+{'dt': 1588852800, 'main': {'temp': 37.17, 'feels_like': 31.81, 'temp_min': 37.17, 'temp_max': 37.17, 'pressure': 1004, 'sea_level': 1004, 'grnd_level': 945, 'humidity': 20, 'temp_kf': 0}, 'weather': [{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}], 'clouds': {'all': 19}, 'wind': {'speed': 7.89, 'deg': 274}, 'sys': {'pod': 'd'}, 'dt_txt': '2020-05-07 12:00:00'}, 
+
+{'dt': 1588863600, 'main': {'temp': 28.07, 'feels_like': 27.56, 'temp_min': 28.07, 'temp_max': 28.07, 'pressure': 1007, 'sea_level': 1007, 'grnd_level': 945, 'humidity': 49, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}], 'clouds': {'all': 0}, 'wind': {'speed': 3.75, 'deg': 257}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-07 15:00:00'}, 
+
+{'dt': 1588874400, 'main': {'temp': 24.81, 'feels_like': 24.9, 'temp_min': 24.81, 'temp_max': 24.81, 'pressure': 1009, 'sea_level': 1009, 'grnd_level': 946, 'humidity': 62, 'temp_kf': 0}, 'weather': [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}],'clouds': {'all': 0}, 'wind': {'speed': 3.28, 'deg': 251}, 'sys': {'pod': 'n'}, 'dt_txt': '2020-05-07 18:00:00'}], 
+
+'city': {'id': 1259229, 'name': 'Pune', 'coord': {'lat': 18.5196, 'lon': 73.8553}, 'country': 'IN', 'population': 9999, 'timezone': 19800, 'sunrise': 1588466162, 'sunset': 1588512403}}
